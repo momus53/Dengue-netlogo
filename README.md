@@ -7,3 +7,5 @@ temperatura como factor ambiental, y su influencia sobre la población de mosqui
 transmisión del virus DENV (causante de la enfermedad). Además, se buscó proyectar un
 aumento en las temperaturas medias anuales debido al cambio climático, para los años 2024,
 2025 y 2030, y cómo el mismo impactaría sobre la propagación del dengue.
+
+Para mas informacion leer el archivo "informe final" en este repositorio.
