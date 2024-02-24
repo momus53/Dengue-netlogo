@@ -11,4 +11,4 @@ aumento en las temperaturas medias anuales debido al cambio climático, para los
 Para mas informacion leer el archivo "informe final" en este repositorio.
 
 # Instrucciones de uso
-Descargar todos los archivos dentro de este repositorio dentro de una misma carpeta y ejecutar el archivo .nlogo
+Descargar todos los archivos de este repositorio dentro de una misma carpeta y ejecutar el archivo .nlogo
