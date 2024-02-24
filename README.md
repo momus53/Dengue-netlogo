@@ -9,3 +9,6 @@ aumento en las temperaturas medias anuales debido al cambio climático, para los
 2025 y 2030, y cómo el mismo impactaría sobre la propagación del dengue.
 
 Para mas informacion leer el archivo "informe final" en este repositorio.
+
+# Instrucciones de uso
+Descargar todos los archivos dentro de este repositorio dentro de una misma carpeta y ejecutar el archivo .nlogo
