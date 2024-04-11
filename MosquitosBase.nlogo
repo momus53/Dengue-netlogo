@@ -25,7 +25,7 @@ to setup
   reset-ticks
 
   set arr_temperaturas array:from-list n-values 1098 [0]
-  setear-arreglo-temperaturas "Datos temeratura max y min La Plata por día - Hoja 1.csv"
+  setear-arreglo-temperaturas "datos_2023.csv"
 
   import-drawing "Mapa_La_Plata.jpg"
 
