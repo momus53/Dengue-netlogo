@@ -8,6 +8,10 @@ temperaturas a causa del cambio climático, para simular cómo afecta la propaga
 tendencia para 2024, 2025 y 2030. Se concluyó que el cambio climático puede generar una expansión tanto en el tamaño de las poblaciones de
 mosquitos como en su actividad anual, propiciando la aparición de brotes de dengue fuera de las temporadas identificadas como más cálidas
 
+#Publicacion cientifica
+La publicacion linkeada describe el trabajo realizado con este entorno de simulacion:
+https://journal.info.unlp.edu.ar/JCST/article/view/3478
+
 # Instrucciones de uso
 Descargar todos los archivos de este repositorio dentro de una misma carpeta, oprimir setup y luego ejecutar el archivo .nlogo. Haciendo esto se ejecutara la simulacion correspondiente al año 2023, para cambiar esto se debe cambiar el nombre del archivo a leer dentro del archivo .nlogo en la linea 28:
 
